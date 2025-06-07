@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  background-color: black;
+  position: relative;
+  top: -300px; /* ou même top: -10px; pour le remonter */
+  padding: 5px;
+  font-size: 24px;
+  line-height: 1.4;
+  border-radius: 8px;
+  max-width: 80%;
+  margin-top: 0;
+  font-family: Times New Roman;
+}
